@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "rsxp-ci-cd-boas-praticas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmalafaia/rsxp-CI-CD-boas-praticas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmalafaia/rsxp-CI-CD-boas-praticas/issues"
+  },
+  "homepage": "https://github.com/mmalafaia/rsxp-CI-CD-boas-praticas#readme",
+  "description": ""
+}
